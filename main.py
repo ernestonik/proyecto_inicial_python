@@ -106,4 +106,3 @@ if __name__ == "__main__":
         print('\n¡MUERTO!')
         print(f'\n¡PERDISTE!, LA PALABRA ERA, {palabra_secreta}!\n')
         print ("X.X")
-   .
